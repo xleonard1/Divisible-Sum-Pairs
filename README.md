@@ -1,4 +1,4 @@
-# Divisible-Sum-Pairs
+# Divisible-Sum-Pairs Hacker Rank
 ```
 Given an array of integers and a positive integer , determine the number of (i, j) pairs where i < j and ar[i] + ar[j] is divisible by k.
 ```
